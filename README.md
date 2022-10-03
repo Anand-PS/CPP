@@ -19,12 +19,16 @@ clear();
 ```
   
 *Iterators*
-  begin();
-  end();
+```
+begin();
+end();
+```
   
 *capacity*
+```
 size();
 max_size();
 resize();
 capacity();
 empty();
+```
