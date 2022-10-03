@@ -31,4 +31,5 @@ max_size();
 resize();
 capacity();
 empty();
+shrink_to_fit();
 ```
