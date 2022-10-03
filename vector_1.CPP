@@ -6,7 +6,7 @@ int main()
 {
     vector<int>a;
 
-    a.assign(3,4);
+    a.assign(3,4);  //insert value 4 in first 3 index
 
     cout<<"values: "<<endl;
 
@@ -45,6 +45,4 @@ int main()
     cout<<"size "<<a.size()<<endl;
 
 
-
-    // printf("Hai %d",a[0]);
 }
