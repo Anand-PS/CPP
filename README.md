@@ -1,6 +1,7 @@
 # CPP
 
-##Vector
+___
+## Vector
 
 decleration syntax
 
@@ -33,3 +34,14 @@ capacity();
 empty();
 shrink_to_fit();
 ```
+___
+  
+## String
+
+Decleration
+string string_name;
+
+*Functions*
+
+string_name.length();
+  
