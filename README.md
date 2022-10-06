@@ -44,4 +44,13 @@ string string_name;
 *Functions*
 
 string_name.length();
+insert();
+length();
+empty();
+find();
+append();
+substr();
+erase();
+clear();
+
   
