@@ -44,6 +44,7 @@ string string_name;
 *Functions*
 
 string_name.length();
+```
 insert();
 length();
 empty();
@@ -52,5 +53,6 @@ append();
 substr();
 erase();
 clear();
+```
 
   
