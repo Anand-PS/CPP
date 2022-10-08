@@ -55,4 +55,10 @@ erase();
 clear();
 ```
 
+Conversion
+```
+to_string();
+stoi();
+```
+
   
