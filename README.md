@@ -49,7 +49,8 @@ insert();
 length();
 empty();
 find();
-append();
+append();     //only accepts string
+push_back();  //only accepts character
 substr();
 erase();
 clear();
