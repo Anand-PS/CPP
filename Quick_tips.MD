@@ -23,3 +23,18 @@ if n = 153
 then (1*1*1 + 5*5*5 + 3*3*3) is to be equal to 153
 
 ```
+
+#### LEAP YEAR
+```
+A year is a leap year if the following conditions are satisfied,
+1.The year is multiple of 400.
+2.The year is multiple of 4 and not multiple of 100.
+
+SOLUTION
+check
+if year divisible by 400: Then it is a leap year
+else if divisible by 100: Then it is NOT a leap year
+else if divisible by 4: Then it is a leap year
+else : Then it is NOT a leap year
+
+```
