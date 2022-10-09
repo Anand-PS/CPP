@@ -53,3 +53,11 @@ n2=n
 
 if n == given number then it is in the series
 ```
+
+#### PALINDROME
+```
+A word, phrase, or sequence that reads the same backwards as forwards
+
+SOLUTION
+separate the last digit one by one and push_back that to a string then convert it to interger and compare it with the given number
+```
