@@ -38,3 +38,18 @@ else if divisible by 4: Then it is a leap year
 else : Then it is NOT a leap year
 
 ```
+
+#### FIBONACCI SERIES
+```
+It is a series of numbers in which each number is the sum of the two preceding numbers:
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34,
+
+SOLUTION
+inside while loop
+n1=0, n2=1
+n=n1+n2
+n1=n2
+n2=n
+
+if n == given number then it is in the series
+```
